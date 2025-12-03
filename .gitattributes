@@ -1,5 +1,4 @@
-*.br binary
-*.wasm.br binary
-*.js.br binary
-*.data.br binary
-*.wasm wasm
+*.wasm.br  binary  content-encoding=br
+*.js.br    binary  content-encoding=br
+*.data.br  binary  content-encoding=br
+*.unityweb binary  content-encoding=br
