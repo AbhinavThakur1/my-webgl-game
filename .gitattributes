@@ -1,3 +1,5 @@
-*.wasm br
-*.js   br
-*.data br
+*.br binary
+*.wasm.br binary
+*.js.br binary
+*.data.br binary
+*.wasm wasm
